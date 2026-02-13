@@ -45,7 +45,7 @@ const HomePage = () => {
                 style={{
                     height: '50vh',
                     backgroundImage: `
-      linear-gradient(to bottom, rgba(221, 9, 120, 0.75), transparent 50px),
+      linear-gradient(to bottom, rgba(221, 9, 120, 0.7), transparent 50px),
       url(${footer})
     `,
                     backgroundSize: 'cover',
