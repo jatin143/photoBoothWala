@@ -8,7 +8,7 @@ const HomePage = () => {
         <>
             <section
                 style={{
-                    height: '95vh',
+                    height: '96vh',
                     width: '100%',
                     backgroundImage: `url(${homeBanner})`,
                     backgroundSize: 'cover',
