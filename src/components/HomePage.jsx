@@ -27,7 +27,7 @@ const handleGmailClick = () => {
 };
 
 const handleLocationClick = () => {
-    window.open('https://maps.app.goo.gl/s2YWCtP6viszXY5g6', '_blank');
+    window.open('https://maps.app.goo.gl/92wTmrPvYfavXg72A?g_st=awb', '_blank');
 };
 
 const HomePage = () => {
